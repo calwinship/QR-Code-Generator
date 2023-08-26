@@ -1,6 +1,6 @@
 # QR Code Generator
 
-This QR code generator takes data that would typically be sent to a receipt printer and instead converts the data to a string and generates a QR code. 
+This QR code generator takes data that would typically be sent to a receipt printer, converts it to a string, and generates a QR code. 
 
 ## 📝 How to use
 
